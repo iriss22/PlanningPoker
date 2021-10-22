@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PlanningPoker</string>
+
+    <string name="has_estimated_already">Уже проголосовали</string>
+
+    <string name="room_already_exist">Такая комната уже существует</string>
+    <string name="room_hasnt_exist">Такой комнаты не существует</string>
+
+    <string name="print_user_name">Введите имя пользователя</string>
+    <string name="print_room_name">Введите имя комнаты</string>
+
+    <string name="unknown_error">Непредвиденная ошибка. Перезагрузите приложение</string>
+
+    <string name="hint_user_name">Имя</string>
+    <string name="hint_room_name">Название комнаты</string>
+    <string name="clear">Очистить</string>
+    <string name="create_room">Создать комнату</string>
+    <string name="enter">Войти</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:columnCount="4"
+    android:rowCount="1"
+    android:layout_gravity="top"
+    android:padding="8dp"
+    >
+
+    <Button
+        android:id="@+id/ivxs"
+        style="@style/estimateButtonStyle"
+        android:text="XS"
+        />
+    <Button
+        android:id="@+id/ivs"
+        android:text="S"
+        style="@style/estimateButtonStyle"
+        />
+
+    <Button
+        android:id="@+id/ivm"
+        android:text="M"
+        style="@style/estimateButtonStyle"
+        />
+
+    <Button
+        android:id="@+id/ivl"
+        android:text="L"
+        style="@style/estimateButtonStyle"
+        />
+</GridLayout>
+
